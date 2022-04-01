@@ -1,0 +1,8 @@
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Example Test\bin\Debug\Example Test.exe.config
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Example Test\bin\Debug\Example Test.exe
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Example Test\bin\Debug\Example Test.pdb
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Example Test\obj\Debug\Example Test.csproj.AssemblyReference.cache
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Example Test\obj\Debug\Example Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Example Test\obj\Debug\Example Test.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Example Test\obj\Debug\Example Test.exe
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Example Test\obj\Debug\Example Test.pdb

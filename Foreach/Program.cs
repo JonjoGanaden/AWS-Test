@@ -14,7 +14,10 @@ namespace Foreach
             foreach (int val in number)
             {
                 Console.WriteLine(val);
+               
             }
+                    Console.ReadLine(); 
+
         }
     }
 }

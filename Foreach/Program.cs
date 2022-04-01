@@ -4,17 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Example_Test
+namespace Foreach
 {
-    internal class Program
+     class Program
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 10; i++)
+            int[] number = { 2, 4, 6, 8, 10 };
+            foreach (int val in number)
             {
-                Console.WriteLine($"{i} hello world");
+                Console.WriteLine(val);
             }
-            Console.ReadLine();
         }
     }
 }

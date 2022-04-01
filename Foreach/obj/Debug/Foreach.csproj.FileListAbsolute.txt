@@ -1,0 +1,8 @@
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Foreach\bin\Debug\Foreach.exe
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Foreach\bin\Debug\Foreach.pdb
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Foreach\obj\Debug\Foreach.csproj.AssemblyReference.cache
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Foreach\obj\Debug\Foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Foreach\obj\Debug\Foreach.exe
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Foreach\obj\Debug\Foreach.pdb

@@ -1,0 +1,8 @@
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Loops\bin\Debug\Loops.exe.config
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Loops\bin\Debug\Loops.exe
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Loops\bin\Debug\Loops.pdb
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Loops\obj\Debug\Loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Loops\obj\Debug\Loops.exe
+C:\Users\jonjo\Desktop\AWS\AWS-Test\Loops\obj\Debug\Loops.pdb

@@ -4,16 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Example_Test
+namespace Loops
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 10; i++)
+            double sum = 0;
+            double count = 0;
+            do
             {
-                Console.WriteLine($"{i} hello world");
-            }
+                sum = sum + Math.Pow(count,2.0);
+                Console.WriteLine("count: {0} sum: {1}", count, sum);
+                count++;
+            } while (count != 10);
             Console.ReadLine();
         }
     }
